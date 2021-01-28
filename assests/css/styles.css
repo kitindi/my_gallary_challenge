@@ -124,3 +124,11 @@ img{
     grid-row:2/4;
     align-self: baseline;
 }
+
+.footer{
+    text-align: center;
+    font-size: 1em;
+    color: #4E5150;
+    font-weight: 500;
+    padding: 2em;
+}
