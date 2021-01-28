@@ -79,12 +79,12 @@ img{
     }
     .card__content .name{
         color:#4E5150;
-        font-size: 1.2em;
+        font-size: 1.1em;
         font-weight: 600;
         ;
     }
     .card__content .location{
-        font-size: 1em;
+        font-size: .85em;
         color:#A9A9A9;
     }
     .card__data .data{
